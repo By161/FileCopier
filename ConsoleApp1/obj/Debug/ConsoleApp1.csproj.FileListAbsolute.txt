@@ -1,0 +1,15 @@
+C:\Users\byuen\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\byuen\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\byuen\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\byuen\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\byuen\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\byuen\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\byuen\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\byuen\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Exchange.WebServices.NETStandard.dll
+C:\Users\byuen\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\byuen\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\byuen\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\byuen\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\byuen\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\byuen\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\byuen\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
